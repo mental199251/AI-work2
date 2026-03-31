@@ -8,7 +8,7 @@ outputs/
 logs/
 
 # Data
-data/raw/
+data/raw/.cache/
 
 # IDE/OS
 .DS_Store
